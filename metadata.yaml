@@ -13,6 +13,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/3732
     wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/28184#The-Rubaiyat-of-Omar-Cayenne
 gutenberg_issued: '2009-02-25'
 gutenberg_type: Text
 identifiers:
