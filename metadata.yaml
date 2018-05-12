@@ -1,0 +1,31 @@
+_repo: The-Rubaiyat-of-Omar-Cayenne_28184
+_version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 28184-h/images/cover.jpg
+creator:
+  author:
+    agent_name: Burgess, Gelett
+    alias: Burgess, Frank Gelett
+    birthdate: 1866
+    deathdate: 1951
+    gutenberg_agent_id: '3732'
+    url: http://www.gutenberg.org/2009/agents/3732
+    wikipedia: http://en.wikipedia.org/wiki/Gelett_Burgess
+description: ''
+gutenberg_issued: '2009-02-25'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '28184'
+  lccn: '04037037'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Humorous poetry'
+- !lcc 'PS'
+- !lcsh 'Omar Khayyam -- Parodies, imitations, etc.'
+- !lcsh 'Literature -- History and criticism'
+title: The Rubaiyat of Omar Cayenne
+url: http://www.gutenberg.org/ebooks/28184
